@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment10a</string>
+    <string name="button">View Reveal Effect</string>
+    <string name="title">Circular Reveal Effect</string>
+    <string name="description">Did you see the circular reveal effect</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+</resources>
